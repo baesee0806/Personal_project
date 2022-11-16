@@ -1,0 +1,22 @@
+
+/* header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* 로고와 메뉴 */
+.logo{
+    display: flex;
+}
+.menu{
+    display: inherit;
+    flex-direction: row;
+}
+
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
