@@ -1,0 +1,16 @@
+.buttons button{
+    text-decoration: none;
+    color: black;
+    width: 40px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: gray;
+}
+.buttons {
+    position: relative;
+    margin-left: 650px;
+    margin-top: 80px;
+}
+.hide_bar{
+    display: none;
+}
